@@ -23,3 +23,7 @@ venv/
 
 # VS Code project settings (optional)
 .vscode/
+
+# Remove Miniconda (optional)
+Miniconda3-latest-MacOSX-arm64.sh
+
